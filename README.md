@@ -2,7 +2,7 @@
 
 # What is in this?
 
-Python Basics and Introduction to DataScience
+From Python Basics to Introduction to DataScience, Django
 
 # Requirements
 
